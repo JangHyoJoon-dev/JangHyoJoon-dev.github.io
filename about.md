@@ -8,59 +8,46 @@ permalink: /about/
 
 [추후에 도전학기제 링크 다시 찾아보기](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Quantitative finance
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 왜 해야 하는가?
+우리는 손실 회피, 시간 지연 편향, 소유 효과등으로 인해서  
+적정 PNL을 취해야 할 때, 언제 Long/Short Position을 취해야 할 지  
+현재의 추세와 지지 저항을 모두 확인 했는지,  
+HODL과 FOMO와 같은 심리가 지금의 상황에서 옳바른지  
+매 순간순간 옳은 결정을 하기 어렵기 때문에 자동화된 인디케이터가 필요합니다.
 
-# 
+## 소셜 감정 분석
+> 유튜브 동영상과 관련된 데이터를 분석하여 동영상에 대한 시청자들의 감정 
+> 상태를 이해하고 분석하는 것을 의미합니다. 이를 통해 
+> 동영상의 인기도, 반응, 시청자들의 감정 등을 파악할 수 있습니다.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 주식 인디케이터
+> 주식 인디케이터는 주식 시장에서 주식의 가격 및 거래량 
+> 등과 관련된 데이터를 분석하여 주식 가격의 추세, 변동성, 
+> 매수/매도 신호 등을 파악하는 도구입니다. 
+> 이러한 인디케이터는 투자자들이 주식 시장 동향을 파악하고 
+> 투자 결정을 내리는 데 도움을 줍니다. 다양한 주식 인디케이터가 
+> 있으며, 각각의 인디케이터는 다양한 계산 방식과 지표를 활용하여 
+> 주식 시장의 동향을 해석합니다.
 
-## Header 2
+#### 사용하는 인디케이터
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   MACD
+*   EMA
+*   RSI
+*   Bollinger Bands
 
-### Header 3
+###### Import
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+| Name                | head two          | three |
+|:--------------------|:------------------|:------|
+| NLTK                |                   | nice  |
+| Youtube Data API V3 | good and plenty   | nice  |
+| BackTrader          | good `oreos`      | hmm   |
+|                     | good `zoute` drop | yumm  |
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### 기술 스택
-
-| Name         | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+### 아래는 진행 과정입니다.
 
 * * *
 
