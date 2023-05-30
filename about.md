@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-주식 투자와, 커피 추출에 관한 자동화에 관심이 있는 학생입니다.
+# 주식 투자와, 커피 추출에 관한 자동화에 관심이 있는 학생입니다.
 
 [추후에 도전학기제 링크 다시 찾아보기](./another-page.html).
 
-# Quantitative finance
+## Quantitative finance
 
-## 왜 해야 하는가?
+### 왜 해야 하는가?
 우리는 손실 회피, 시간 지연 편향, 소유 효과등으로 인해서  
 적정 PNL을 취해야 할 때, 언제 Long/Short Position을 취해야 할 지  
 현재의 추세와 지지 저항을 모두 확인 했는지,  
