@@ -58,4 +58,8 @@ HODL과 FOMO와 같은 심리가 지금의 상황에서 옳바른지
 
 ### Progress
 ![스크린샷 2023-05-30 140941](https://github.com/JangHyoJoon-dev/JangHyoJoon-dev.github.io/assets/117426928/432bf04a-50ac-4734-990a-5cf9eaab7c38)
-```
+
+# 커피와 기계학습
+![Jonadan](https://github.com/JangHyoJoon-dev/JangHyoJoon-dev.github.io/assets/117426928/04999440-377e-4ac2-9cfb-c6af1838b9f2)
+![스크린샷 2023-05-30 142916](https://github.com/JangHyoJoon-dev/JangHyoJoon-dev.github.io/assets/117426928/a2b1f8dc-863a-44a2-b87f-995ea96e3c3a)
+![스크린샷 2023-05-30 142940](https://github.com/JangHyoJoon-dev/JangHyoJoon-dev.github.io/assets/117426928/bb384096-f2e7-4f40-9404-61fec5d65ef7)
