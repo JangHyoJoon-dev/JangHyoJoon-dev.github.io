@@ -38,77 +38,24 @@ HODL과 FOMO와 같은 심리가 지금의 상황에서 옳바른지
 *   RSI
 *   Bollinger Bands
 
-###### Import
+###### Import 내역
 
-| Name                | head two          | three |
-|:--------------------|:------------------|:------|
-| NLTK                |                   | nice  |
-| Youtube Data API V3 | good and plenty   | nice  |
-| BackTrader          | good `oreos`      | hmm   |
-|                     | good `zoute` drop | yumm  |
+| Name                | func                     |      
+|:--------------------|:-------------------------|
+| NLTK                | 자연어 처리와 텍스트 분석 작업        |
+| Youtube Data API V3 | YouTube의 다양한 데이터와 기능을 활용 |
+| BackTrader          | 오픈 소스의 거래 전략 및 백테스팅 프레임워크                         |
+
 
 ### 아래는 진행 과정입니다.
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Example
+![Bollinger](https://github.com/JangHyoJoon-dev/JangHyoJoon-dev.github.io/assets/117426928/bfc7d5aa-7c95-40f8-8f61-55dc10124033)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+### Progress
+![스크린샷 2023-05-30 140941](https://github.com/JangHyoJoon-dev/JangHyoJoon-dev.github.io/assets/117426928/432bf04a-50ac-4734-990a-5cf9eaab7c38)
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-## Emojis
