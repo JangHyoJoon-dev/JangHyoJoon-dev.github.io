@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+주식 투자와, 커피 추출에 관한 자동화에 관심이 있는 학생입니다.
 
-[Link to another page](./another-page.html).
+[추후에 도전학기제 링크 다시 찾아보기](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
